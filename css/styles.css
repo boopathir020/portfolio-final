@@ -4496,7 +4496,7 @@ td:last-child {
   width: 70px;
   height: 70px;
   border: 1px solid #fff;
-  border-radius: 50%;
+  border-radius: 55%;
   display: flex;
   align-items: center;
   justify-content: center;
